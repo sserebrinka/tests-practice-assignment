@@ -1,0 +1,21 @@
+# Python
+pycache/
+*.py[cod]
+*.pyc
+
+# Virtualenv
+practice-assignment-venv/
+
+# Pytest
+.cache/
+*.pytest_cache/
+
+# Google credentials
+*.json
+
+# Env
+.env
+
+# VSCode / IDE
+.vscode/
+.idea/
